@@ -5,7 +5,6 @@ def add(a,b):
 
 def subtract(a,b):
     return a-b
-    
-def hello_a():
-    print("안녕하세요")
 
+def multiply(a,b):
+    return a*b+a
